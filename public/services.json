@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "GETTING SAFE EMERGENCY CARE AT UNITED HOSPITAL DURING THE COVID-19 PANDEMIC",
+        "price": "300",
+        "description": "Since March 2020, news about the coronavirus disease (COVID-19) pandemic may have made many of us feel anxious about going to the emergency of a hospital or getting medical care, and we may have wondered if it is safe to go to the hospital. In the beginning, we have found out that nearly 30% of people were avoiding or delaying medical care due to COVID-19 concerns. Emergency departments of some hospitals had about half their usual number of patients.",
+        "img": "https://uhlbd.com/backend/web/uploads/1613561110Emergency%20Final.jpg"
+    },
+    {
+        "id": 2,
+        "name": "MEDICAL CYCLOTRON AND PET CT AT UNITED HOSPITAL, VANGUARD IN RESHAPING CANCER CARE",
+        "price": "100",
+        "description": "On the basement floor of the United Hospital, one will find many highly specialized state-of-the-art medical equipment where the Nuclear Medicine and Radiation (radiotherapy) wings are located. United Hospital Cancer Care Centre is entirely devoted to provide cancer patients with the most effective range of innovative cancer diagnosis and treatment available. It is the first vanguard hospital playing pioneering role in reshaping the cancer care of Bangladesh as it introduced back in 2011 the first PET-CT scanner and Medical Cyclotron to produce FDG (Fludeoxyglucose), the radioactive isotope which is used in PET-CT scan to detect the presence, spread, recurrence and treatment progress of cancer.",
+        "img": "https://uhlbd.com/backend/web/uploads/16120766499.%20Medical%20Cyclotron%20and%20PET%20CT%20at%20United%20Hospital,%20vanguard%20in%20reshaping%20cancer%20care.jpg"
+    },
+    {
+        "id": 3,
+        "name": "GETTING IT RIGHT FIRST TIME IN UROLOGY",
+        "price": "150",
+        "description": "Urology can be broadly defined as the specialty that manages patients with diseases of the male and female urinary tract, and of the male reproductive organs. It covers a wide range of common conditions including urinary tract infections, urinary tract stones, problems with bladder emptying, urinary incontinence and erectile dysfunction. Urologists also treat patients with kidney, bladder, prostate, penile and testicular cancer. The last of these typically affects younger men than most cancers; prostate cancer, on the other hand, is most often seen in older patients.",
+        "img": "https://uhlbd.com/backend/web/uploads/16120765638.%20Getting%20it%20right%20first%20time%20in%20urology.jpg"
+    },
+    {
+        "id": 4,
+        "name": "PHYSICAL MEDICINE AND REHABILITATION CARE USING A PATIENT-CENTRED APPROACH",
+        "price": "180",
+        "description": "Physical medicine and rehabilitation also known as rehabilitation medicine is a medical specialty that helps people regain bodily functions they lost due to medical conditions or injury. Rehabilitation can help many bodily functions, including bowel and bladder problems, chewing and swallowing, problems thinking or reasoning, movement or mobility, speech, and language.",
+        "img": "https://uhlbd.com/backend/web/uploads/16120764307.%20Physical%20medicine%20and%20rehabilitation%20care%20using%20a%20patient-centred%20approach.jpg"
+    },
+    {
+        "id": 5,
+        "name": "SCREENING AT DOORSTEP: A SMART STEP FOR YOUR HEALTH",
+        "price": "100",
+        "description": "The prospect of spending hours in a queue at the diagnostic lab or the hospital deters many or at least prompts them to defer stepping out for diagnostic tests. For many people, the idea of spending hours in a lab or hospital may sound demotivating. Many people also avoid going for preventive screenings and lab tests as they dread battling city traffic.",
+        "img": "https://uhlbd.com/backend/web/uploads/16120762185.%20Screening%20at%20doorstep%20A%20smart%20step%20for%20your%20health.jpg"
+    },
+    {
+        "id": 6,
+        "name": "NEONATAL INTENSIVE CARE UNIT (NICU), WHERE BIG JOURNEYS OF NEWBORNS BEGIN WITH SMALL STEPS",
+        "price": "300",
+        "description": "The birth of a baby is a wonderful and very complex process. Many physical and emotional changes occur for both mother and baby. A baby must make many physical adjustments to life outside the mother's body. Leaving the uterus means that a baby can no longer depend on the mother's blood supply and placenta for important body functions.",
+        "img": "https://uhlbd.com/backend/web/uploads/16120763246.%20Neonatal%20Intensive%20Care%20Unit%20(NICU),%20where%20big%20journeys%20of%20newborns%20begin%20with%20small%20steps.jpg"
+    }
+]
