@@ -32,7 +32,7 @@ Back-end technology: Node js,Express js,Storage for Json file
 
 6. Customized URL
 
-## Tecnology Used
+## Technology Used
 
 1. React js
 
